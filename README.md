@@ -17,13 +17,13 @@ A visually appealing Spotify clone built with HTML and CSS. This project replica
 - **CSS3**
 - **Font Awesome** (for icons)
 
-## 📸 Screenshots
+## 🧠 Key Learnings
 
-### Desktop View
-![Desktop View](screenshots/desktop.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile.png)
+- Building responsive UIs with only HTML & CSS  
+- Using **Font Awesome** for interactive iconography  
+- Structuring web pages into **reusable and semantic components**  
+- Designing layouts with **mobile-first** approach  
+- Planning scalable **folder structures**
 
 
 ## 🌐 Deployment
